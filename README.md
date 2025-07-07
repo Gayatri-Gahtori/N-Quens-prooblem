@@ -1,1 +1,1 @@
-# SUDOKU-SOLVER
+# N-Queens Problem
