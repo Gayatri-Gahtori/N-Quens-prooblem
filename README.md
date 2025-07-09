@@ -1,1 +1,1 @@
-# N-Queens Problem
+# Java-DSA-Practice
